@@ -1,3 +1,4 @@
+## 脆弱参数参考
 # Top 25 Vulnerability Parameters based on frequency
 
 For basic researches, top 25 vulnerable parameters based on frequency of use with reference to various articles. These parameters can be used for automation tools or manual recon. Although the prevalence percentages of these parameters cannot be proven precisely, they were prepared by the TR Bug Hunters Community, which I founded, and myself.
